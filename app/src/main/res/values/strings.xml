@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Ashraf Trader</string>
+    <string-array name="seller_name">
+        <item>Select Seller Name</item>
+        <item>Mr.Ashraf</item>
+        <item>Mr.Younus</item>
+        <item>Hafiz Hamza</item>
+        <item>M.Usama</item>
+        <item>Sufyan</item>
+        <item>Usman</item>
+        <item>Hassan</item>
+        <item>A.T</item>
+    </string-array>
+</resources>
